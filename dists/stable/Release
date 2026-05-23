@@ -1,0 +1,25 @@
+Date: Sat, 23 May 2026 04:35:08 +0000
+MD5Sum:
+ b9aa7da5acff12e11445d9223327951e               38 Release
+ d41d8cd98f00b204e9800998ecf8427e                0 main/binary-all/Packages
+ a9e70532262ee9a3774b41887ba1e525               29 main/binary-all/Packages.gz
+ 82a11b4ff425230096cb68ed7d7ef242              370 main/binary-amd64/Packages
+ 9d99c6ffd34de2687985ebc8e8002ae9              299 main/binary-amd64/Packages.gz
+SHA1:
+ 584874c5577690cb34c32017f671031e91955388               38 Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/binary-all/Packages
+ 4463f1e17ad5e14830b32289940939bf9f2f0d70               29 main/binary-all/Packages.gz
+ 8f51750baced3cba3d1898c63edd8154889369fe              370 main/binary-amd64/Packages
+ 8e9c32e83688b30e34275ea02c0f0ffe83fb2991              299 main/binary-amd64/Packages.gz
+SHA256:
+ 8fe84648d3c2301f16cce9d56656774c6537bcbb7d0a83608e248edaf202f93a               38 Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/binary-all/Packages
+ 05f27d3b311870a256d3b74dfa4a8ea5003dace28e02362db369f64c097ffcef               29 main/binary-all/Packages.gz
+ 0519b95e600138acbe912eaa7952ef5891064cf1014a789988a339c6b88e2f12              370 main/binary-amd64/Packages
+ 659aaf24be4f4ad926d2d6fc68f47ad2f42e6a9d927e5be843b972d9f110e48e              299 main/binary-amd64/Packages.gz
+SHA512:
+ 4dec8e42f572bf1f287c8be7527edd88824955ddd0b5a7f3c3b521b3caea5a588e611243142e2d2565ab108244ecb9e815d28b1df633782db9be0494841c3e22               38 Release
+ cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e                0 main/binary-all/Packages
+ 6524c4d56d6ed6f82cf2da43d5a948202669f396e966d1379c219833a5e645aad8c0126a0527927b1eace2c88e043c883bb42357a1dc35dba85b8440a4d2db4f               29 main/binary-all/Packages.gz
+ 89c6c4d6368c611a14547b58aa569a6bf28fd2ce9fee3f2ff62c01526ef395ac7d9c7f70bd29777d73819bffafe3236dfee8cee62d9d74470fd9f981e2f3de87              370 main/binary-amd64/Packages
+ b3cfa513a194ff0f90f8b1287b4b8a63fd4e28581cda052f1b753e48d2ec54298efb5a7a0719e656f6b48f7f590133e0c90012fa3ba511efc9cbc10a86811bad              299 main/binary-amd64/Packages.gz
