@@ -1,0 +1,13 @@
+Package: alps
+Version: 0.9.6
+Architecture: amd64
+Maintainer: adrianpriza-ai
+Filename: pool/main/alps_0.9.6_amd64.deb
+Size: 2364544
+MD5sum: b68b55bfcb8ff553bfcd058c2348f465
+SHA1: 01d69e19934f1cb5b585d9338e4c4adfcd10545d
+SHA256: 163847c184b82363e34fc20c766001272edbe08baae5836a604918b6200039fb
+Section: utils
+Priority: optional
+Description: Advanced Linux Package System
+
