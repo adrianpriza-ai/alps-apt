@@ -1,77 +1,12 @@
 Package: alps
-Version: 0.9.6
-Architecture: armhf
-Maintainer: adrianpriza-ai
-Filename: pool/main/alps_0.9.6_armhf.deb
-Size: 2190644
-MD5sum: d90a9f265317613806b11a56cb830b1a
-SHA1: 7a41e1a7319ead929ffbcd86a5e91524313adf8a
-SHA256: 5ce7819508d22e21aa6d21ba97c79425dccd2fe1e974613d3028471420b905da
-Section: utils
-Priority: optional
-Description: Advanced Linux Package System
-
-Package: alps
-Version: 0.9.6
-Architecture: arm64
-Maintainer: adrianpriza-ai
-Filename: pool/main/alps_0.9.6_arm64.deb
-Size: 2085658
-MD5sum: 6065bdb732ca80d3b84f3e7bc1752e38
-SHA1: b8134e6938ab87f88c9e10ecb9aaa04ebf27dd97
-SHA256: 9c82b2bd2a8a78b370a857730503ecb8f4c1259fd41548d03a85d9577c34d5d6
-Section: utils
-Priority: optional
-Description: Advanced Linux Package System
-
-Package: alps
-Version: 0.9.6
-Architecture: amd64
-Maintainer: adrianpriza-ai
-Filename: pool/main/alps_0.9.6_amd64.deb
-Size: 2364558
-MD5sum: 3ac03f908de2b61e8667c6ea64c52d21
-SHA1: 14784f9ea0666b202b1e32f4f8713aef319dc8eb
-SHA256: f8b53180877bcdf55bb40b3b5f7b186abf30033f7dd2efea54e4903bf050743f
-Section: utils
-Priority: optional
-Description: Advanced Linux Package System
-
-Package: alps
 Version: 0.9.7
 Architecture: armhf
 Maintainer: adrianpriza-ai
-Filename: pool/main/alps_0.9.7_armhf.deb
-Size: 2191976
-MD5sum: 3b7f8f908ec104d72ae280a457165efa
-SHA1: e3bd9d2db897b1e9a3f3f152a3b23b79ee8af6de
-SHA256: 6656848c3e23187db570eb9552352b3e3d923cdc5a17967cd9eb778f1743939f
-Section: utils
-Priority: optional
-Description: Advanced Linux Package System
-
-Package: alps
-Version: 0.9.7
-Architecture: arm64
-Maintainer: adrianpriza-ai
-Filename: pool/main/alps_0.9.7_arm64.deb
-Size: 2086986
-MD5sum: 8be89733566d8309de1f962a92ce40e1
-SHA1: 010303a3ce583737b2337c44ab25fbe4533b4938
-SHA256: e86c3205c5701cd6ad3d9fb8b3360c6ed521d8d1c6037db2a53e36bbe54a21c9
-Section: utils
-Priority: optional
-Description: Advanced Linux Package System
-
-Package: alps
-Version: 0.9.7
-Architecture: amd64
-Maintainer: adrianpriza-ai
-Filename: pool/main/alps_0.9.7_amd64.deb
-Size: 2365726
-MD5sum: bd0fd809b9657f61750d6cfcae849035
-SHA1: e429f65c71f2948e5bd7b019a75c64ef52373e82
-SHA256: 3f73ea3e29fa45e9c76c6bd6c68bebdc4df5ba66f563f7860321f7fac68ae927
+Filename: pool/main/armhf/alps_0.9.7_armhf.deb
+Size: 2192044
+MD5sum: 083929e2c95df7f096952dbf1ad561cf
+SHA1: 12385c0406c17255afb08721ab13e4e66a9afce1
+SHA256: 163749ac6ed88dd2c093765257f11af7d71e84e00321cc9df323851d9a6792f2
 Section: utils
 Priority: optional
 Description: Advanced Linux Package System
