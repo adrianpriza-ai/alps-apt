@@ -3,10 +3,10 @@ Version: 0.9.7
 Architecture: armhf
 Maintainer: adrianpriza-ai
 Filename: pool/main/armhf/alps_0.9.7_armhf.deb
-Size: 2191980
-MD5sum: 54eec47c868462b89efe6375376d0fe1
-SHA1: b4cb080d19c8f39c081125f4f21f86dc50fbff43
-SHA256: d4cb449d452aaaf7c61f65923fd07ed9247068691699189062a69b3acad6fbbb
+Size: 2191986
+MD5sum: 4eb6a2a8c5c0e7f59b70c5f9b1f64693
+SHA1: 620a4b638a4ca05d6c1b69b419d73309e7323357
+SHA256: 976a6419a2e102f1492fea576558ca88d162173c534a3e9fcf946739a79b8b9e
 Section: utils
 Priority: optional
 Description: Advanced Linux Package System
