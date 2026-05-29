@@ -3,10 +3,10 @@ Version: 0.9.7
 Architecture: amd64
 Maintainer: adrianpriza-ai
 Filename: pool/main/amd64/alps_0.9.7_amd64.deb
-Size: 2367324
-MD5sum: 94ce8f668a660834658d481672526926
-SHA1: 7f4f8950fa52e7df8cb2ba759d4eec084b457f19
-SHA256: e84fd19ddb616ebca08e7afd5fee8617c90e67aeadafa405194ff9afc2d51286
+Size: 2367416
+MD5sum: 3c77c446c6ed7e55f0c1af359652df9e
+SHA1: 8b9bca6b54a4e9945fe9185ab7fe7ffac7fe5649
+SHA256: 94832472da5cbea6f7433225d5811e4b74e5aec6f2bbb9685826a4c556380997
 Section: utils
 Priority: optional
 Description: Advanced Linux Package System
