@@ -11,3 +11,16 @@ Section: utils
 Priority: optional
 Description: Advanced Linux Package System
 
+Package: alps
+Version: 0.9.8
+Architecture: armhf
+Maintainer: adrianpriza-ai
+Filename: pool/main/armhf/alps_0.9.8_armhf.deb
+Size: 2208010
+MD5sum: f488b748eb54ad1a1a4c4324d8ad3e9a
+SHA1: d9e523541ff8d743b0ce024b4595f740983743b4
+SHA256: 237b94ab6f2a29a443dd31c7efa32789ac352e84837fa7bec675ebd2b4d8cb55
+Section: utils
+Priority: optional
+Description: Advanced Linux Package System
+

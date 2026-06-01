@@ -11,3 +11,16 @@ Section: utils
 Priority: optional
 Description: Advanced Linux Package System
 
+Package: alps
+Version: 0.9.8
+Architecture: arm64
+Maintainer: adrianpriza-ai
+Filename: pool/main/arm64/alps_0.9.8_arm64.deb
+Size: 2100436
+MD5sum: 69f13111bdafc8ecc2f03fea1576baf5
+SHA1: 5ac9f52280bad114a63dc6f0aadcc8bde25bad9d
+SHA256: ec3a1312a8c3c3ce33c918670c9f25eccfc5f0c218de2fc0794c22df6a9f428c
+Section: utils
+Priority: optional
+Description: Advanced Linux Package System
+
