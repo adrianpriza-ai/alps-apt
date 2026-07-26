@@ -89,3 +89,16 @@ Section: utils
 Priority: optional
 Description: Advanced Linux Package System
 
+Package: alps
+Version: 1.0.4
+Architecture: amd64
+Maintainer: adrianpriza-ai
+Filename: pool/main/amd64/alps_1.0.4_amd64.deb
+Size: 2553206
+MD5sum: 1656373a560034362b2492e1ee687144
+SHA1: dfcf0cefde80c137a4d4c7d9c8ce8e2977c39ecc
+SHA256: 72b5efbc477ba646b36de002a98235cbfffde9c22333b3ac9b6de45ee6791cb4
+Section: utils
+Priority: optional
+Description: Advanced Linux Package System
+
