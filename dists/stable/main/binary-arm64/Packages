@@ -102,3 +102,16 @@ Section: utils
 Priority: optional
 Description: Advanced Linux Package System
 
+Package: alps
+Version: 1.0.5
+Architecture: arm64
+Maintainer: adrianpriza-ai
+Filename: pool/main/arm64/alps_1.0.5_arm64.deb
+Size: 2259492
+MD5sum: 49cb8a4eb37f48613a81351ab9623cb4
+SHA1: 62624742bfe3c515cc5409503d5d7aeb246c2e8e
+SHA256: 3b8a3debd49b5788ce85f7be4906b8df694aa78186fcbf6164952b2ac4b014df
+Section: utils
+Priority: optional
+Description: Advanced Linux Package System
+
