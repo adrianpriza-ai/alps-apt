@@ -1,0 +1,13 @@
+Package: alps
+Version: 1.1.4
+Architecture: arm
+Maintainer: @adrianpriza-ai
+Installed-Size: 7223
+Filename: pool/main/arm/alps-termux_1.1.4_arm.deb
+Size: 2169224
+MD5sum: 5404eb119b6a43188d8076428a0489da
+SHA1: b5c5f41b6944ddad4af7f2e6e15132b1c1acbecd
+SHA256: 6e59e64bfb5ec230d14185d7df029e2b866656ba2dd1f8586875606a38f7efb7
+Homepage: https://github.com/adrianpriza-ai/alps
+Description: Advanced Linux Package System (Termux build)
+
